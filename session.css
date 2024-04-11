@@ -1,0 +1,55 @@
+.main {
+    background-color: purple;
+    height: 60vh;
+}
+
+.main-heading {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+.card {
+    background-color: white;
+    width: 30%;
+    text-align: center;
+    margin: 50px 20px;
+    padding-bottom: 30px;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+img {
+    margin-top: 40px;
+    width: 150px;
+    height: 150px;
+    border: solid purple 5px ;
+    border-radius: 50%;
+}
+
+.card-name {
+    color: purple;
+    padding: 15px 0;
+    font-size: 35px;
+}
+p{
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.btn1 {
+    text-decoration: none;
+    color: purple;
+    border: solid purple 2px;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.btn2 {
+    text-decoration: none;
+    color: white;
+    border: solid purple 2px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: purple;
+
+}
